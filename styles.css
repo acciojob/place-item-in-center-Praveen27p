@@ -2,9 +2,7 @@
 /* Your CSS Code here. */
 .holder{
 	
-	display: block;
-	justify-content: center;
-	align-items: center;
+	
 	width:100vh;
 	height:100vw;
 	}
